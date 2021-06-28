@@ -17,7 +17,7 @@
 
 ## User guessed all the letters correctly and won the game
 
-![](images/won.JPG)
+![](images/win.JPG)
 
 ## User loses the game as he guessed the letters incorrectly and ran out of tries 
 
